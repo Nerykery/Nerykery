@@ -119,20 +119,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Nerykery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nerykery&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerykery&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nerykery&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-</div>
-
----
-
 ## Связаться
 
 <div align="center">
